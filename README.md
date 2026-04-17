@@ -52,7 +52,7 @@ I've worked on several projects where I contribute to digitalization and *data a
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" />
-  <img src="https://github.com/khellafAymene/Lib/delete/main/Power%20BI.png" height="40" alt="PowerBI" />
+  <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/PowerBI.png" height="40" alt="PowerBI" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="40" alt="SQLite" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python" />
 </div>
