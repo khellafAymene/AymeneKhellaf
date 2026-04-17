@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=selhabAhmedyakoub&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/selhabAhmedyakoub)
+[![Profile Views](https://komarev.com/ghpvc/?username=khellafAymene&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/khellafAymene)
 [![GitHub Followers](https://img.shields.io/github/followers/selhabAhmedyakoub?style=social)](https://github.com/selhabAhmedyakoub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymene-khellaf-b6612b396/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:selhabahmedyakoub@gmail.com)
@@ -29,6 +29,22 @@ I've worked on several projects where I contribute to digitalization and *data a
 - 💼 **Open to:** Roles and collaborations in digital production and smart industry projects  
 - 📫 **Reach me at:** [selhabahmedyakoub@gmail.com](mailto:selhabahmedyakoub@gmail.com)
 
+🔭 **Currently working on:**
+• Interactive dashboards & data visualization tools  
+• Backend database systems   
+• Advanced analytics projects  
+
+🌱 **Learning:** 
+• Power BI  
+• Advanced Python visualization libraries  
+• Database optimization  
+
+💼 **Open to:**  
+• Data Analyst roles  
+• Backend development projects  
+• Data visualization & smart industry collaborations  
+
+📫 **Reach me at:** [aymene.0.khellaf@gmail.com](mailto:aymene.0.khellaf@gmail.com)
 ---
 
 ## 🛠️ Tech Stack  
