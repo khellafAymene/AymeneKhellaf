@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Aymene Khellaf </h1>
-<h3 align="center">]Data Analyst | Msc Computer Systems Engineering | Wireless Networks Enthusiast</h3>
+<h3 align="center">Data Analyst | MSc Computer Systems | Data Visualization Specialist</h3>
 
 <div align="center">
   
@@ -20,8 +20,9 @@
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
-I'm **Selhab Ahmed Yakoub**, a passionate **Frontend Developer** currently based in **Germany**, pursuing a degree in **Digital Production Engineering**.  
-Alongside my studies, I’m working **part-time as a Software Developer** at **Fraunhofer IOSB-INA**, where I contribute to digitalization and network-related projects.
+I'm Aymen Khellaf, a passionate *Data Analyst | MSc Computer Systems | Data Visualization Specialist* currently based in Qatar.
+
+I've worked on several projects where I contribute to digitalization and *data analytics* projects - including *backend development with SQL & Firebase*.
 
 - 🔭 **Currently working on:** Frontend apps and wireless network systems at Fraunhofer IOSB-INA  
 - 🌱 **Learning:** Vue.js & Docker
