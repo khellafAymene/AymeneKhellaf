@@ -24,8 +24,8 @@ I'm Aymen Khellaf, a passionate *Data Analyst | MSc Computer Systems | Data Visu
 
 I've worked on several projects where I contribute to digitalization and *data analytics* projects - including *backend development with SQL & Firebase*.
 
-🔭 **Currently working on:** 
-• Interactive dashboards & data visualization tools  
+
+🔭 **Currently working on:** • Interactive dashboards & data visualization tools  
 • Backend database systems   
 • Advanced analytics projects  
 
