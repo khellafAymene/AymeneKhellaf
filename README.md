@@ -54,7 +54,7 @@ I've worked on several projects where I contribute to digitalization and *data a
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" />
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="TailwindCSS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="40" alt="Sass" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Sass" />
 </div>
 
 ### Tools & Technologies  
