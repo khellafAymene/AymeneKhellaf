@@ -50,6 +50,7 @@ I've worked on several projects where I contribute to digitalization and *data a
 ### Programming Languages
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python" />
+  <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/C.svg" height="40" alt="C" />
   <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/MySQL-Light.svg" height="40" alt="MySQL" />
 </div>
 
