@@ -30,7 +30,7 @@ I've worked on several projects where I contribute to digitalization and *data a
 • Backend database systems   
 • Advanced analytics projects  
 
-🌱 **Learning:** 
+🌱 **Learning:**  
 • Power BI  
 • Advanced Python visualization libraries  
 • Database optimization  
